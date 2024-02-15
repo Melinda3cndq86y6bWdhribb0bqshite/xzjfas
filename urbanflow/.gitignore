@@ -1,0 +1,7 @@
+__pycache__/
+*.env
+data/raw_traffic/
+data/processed_traffic/
+notebooks/*.ipynb_checkpoints/
+models/*.pkl
+*.log
