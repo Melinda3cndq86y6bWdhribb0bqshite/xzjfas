@@ -1,0 +1,7 @@
+__pycache__/
+*.env
+data/raw_dicom/
+data/processed_images/
+notebooks/*.ipynb_checkpoints/
+models/*.h5
+models/*.pth
